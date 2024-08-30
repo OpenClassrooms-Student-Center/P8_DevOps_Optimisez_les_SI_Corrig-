@@ -1,6 +1,6 @@
 # Exercice 1
 
-1.  Écran d'accueil de Kibana, cliquer sur "Add data"
+1.  Écran d'accueil de Kibana, cliquez sur "Add data"
 
     ![](./screenshots/screenshot_0.png)
 
